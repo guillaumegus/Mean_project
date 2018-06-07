@@ -1,0 +1,23 @@
+{
+  "name": "meanproject",
+  "version": "1.0.0",
+  "description": "MeanProject test 1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guillaumegus/Mean_project.git"
+  },
+  "author": "gus",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/guillaumegus/Mean_project/issues"
+  },
+  "homepage": "https://github.com/guillaumegus/Mean_project#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "jade": "^1.11.0"
+  }
+}
