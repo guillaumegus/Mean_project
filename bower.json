@@ -1,0 +1,21 @@
+{
+  "name": "meanproject",
+  "description": "MeanProject test 1",
+  "main": "index.js",
+  "authors": [
+    "gus"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/guillaumegus/Mean_project",
+  "private": true,
+  "dependencies": {
+    "jquery": "^3.3.1",
+    "toastr": "^2.1.3",
+    "angular": "^1.7.0",
+    "angular-resource": "^1.7.0",
+    "angular-route": "^1.7.0"
+  },
+  "resolutions": {
+    "jquery": "^3.3.1"
+  }
+}
